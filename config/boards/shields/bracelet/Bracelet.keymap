@@ -16,8 +16,8 @@
 
         bt_layer {
             bindings = <
-                &bootloader           &none          &none          &none           &none           &none           &none           &none
-                &bt BT_CLR           &none           &none          &none           &none           &none           &none           &none
+                &kp I   &kp U   &kp Y   &kp T   &kp R   &kp E   &kp W   &kp Q
+                &kp A   &kp S   &kp D   &kp F   &kp G   &kp H   &kp J   &kp K
             >;
         };
     };
