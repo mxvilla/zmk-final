@@ -9,7 +9,7 @@
         default_layer {
             bindings = <
                 &kp I   &kp U   &kp Y   &kp T   &kp R   &kp E   &kp W   &kp Q
-                &kp A   &kp S   &kp D   &kp F   &kp G   &bt BT_SEL 0   &bt BT_NXT   &bt BT_CLR
+                &kp A   &kp S   &kp D   &kp F   &kp G   &kp H   &kp J   &kp K
             >;
 
         };
@@ -17,7 +17,7 @@
         bt_layer {
             bindings = <
                 &kp I   &kp U   &kp Y   &kp T   &kp R   &kp E   &kp W   &kp Q
-                &kp A   &kp S   &bt BT_DISC 0   &bt BT_DISC 1   &bt BT_DISC 2   &bt BT_DISC 3   &bt BT_NXT   &bt BT_CLR
+                &kp A   &kp S   &kp D   &kp F   &kp G   &kp H   &kp J   &kp K
             >;
         };
     };
