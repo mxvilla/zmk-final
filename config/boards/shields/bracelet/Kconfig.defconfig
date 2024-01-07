@@ -1,0 +1,6 @@
+if SHIELD_BRACELET
+
+config ZMK_KEYBOARD_NAME
+    default "Bracelet"
+
+endif
