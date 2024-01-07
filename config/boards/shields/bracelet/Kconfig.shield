@@ -1,2 +1,2 @@
 config SHIELD_BRACELET
-    def_bool $(shields_list_contains, Bracelet)
+    def_bool $(shields_list_contains,Bracelet)
